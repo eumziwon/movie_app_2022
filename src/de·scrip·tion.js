@@ -3,7 +3,7 @@
 
 
 // 0. yarn add prop-types
-
+// https://yts.torrentbay.to/api
 
 
 // ./는 현재폴더를 의미하고
