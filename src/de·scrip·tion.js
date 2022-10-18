@@ -10,7 +10,10 @@
 
 
 // github.com/serranoarevalo/yts-proxy 노마드코더영화API
-// https://yts-proxy.now.sh/list_movies.json 노마드코더영화API
+// https://yts-proxy.now.sh/movie_details.json
+// + list_movies.json 노마드코더영화API
+// + movie_details.json 디테일 리스트
+
 // yts api 주소에서 앞에 https://yts-proxy.now.sh/ 변경하고 뒤에는 동일시 사용가능
 
 // 크롬 웹 스토어 JSON Viewer 확장 도구 설치하기
