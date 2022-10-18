@@ -2,9 +2,6 @@
 // 1. yarn add axios
 
 
-
-
-
 // https://yts.torrentbay.to/api yts API
 // https://yts.torrentbay.to/api/v2/list_movies.json yts API
 
