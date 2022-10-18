@@ -1,5 +1,10 @@
 // [설치순서]
-// 1.yarn add prop-types
+// 1. yarn add axios
+
+
+
+// 0. yarn add prop-types
+
 
 
 // ./는 현재폴더를 의미하고
