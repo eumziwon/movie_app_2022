@@ -5,13 +5,13 @@
 
 
 
-// https://yts.torrentbay.to/api
-// https://yts.torrentbay.to/api/v2/list_movies.json
+// https://yts.torrentbay.to/api yts API
+// https://yts.torrentbay.to/api/v2/list_movies.json yts API
 
 
-// github.com/serranoarevalo/yts-proxy
-// https://yts-proxy.now.sh/list_movies.json
-
+// github.com/serranoarevalo/yts-proxy 노마드코더영화API
+// https://yts-proxy.now.sh/list_movies.json 노마드코더영화API
+// yts api 주소에서 앞에 https://yts-proxy.now.sh/ 변경하고 뒤에는 동일시 사용가능
 
 // 크롬 웹 스토어 JSON Viewer 확장 도구 설치하기
 // 100. yarn add prop-types
