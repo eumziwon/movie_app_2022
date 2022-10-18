@@ -2,11 +2,20 @@
 // 1. yarn add axios
 
 
-// 0. yarn add prop-types
+
+
+
 // https://yts.torrentbay.to/api
 // https://yts.torrentbay.to/api/v2/list_movies.json
+
+
 // github.com/serranoarevalo/yts-proxy
+// https://yts-proxy.now.sh/list_movies.json
+
+
 // 크롬 웹 스토어 JSON Viewer 확장 도구 설치하기
+// 100. yarn add prop-types
+
 
 // ./는 현재폴더를 의미하고
 // ../는 상위폴더를 의미한다
